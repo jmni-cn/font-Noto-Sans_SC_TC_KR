@@ -1,0 +1,15 @@
+{
+  "name": "font-downloader",
+  "version": "1.0.0",
+  "description": "A tool to download and localize font files from CSS",
+  "main": "downloadFonts.js",
+  "scripts": {
+    "start": "node downloadFonts.js"
+  },
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "download": "^8.0.0",
+    "fs-extra": "^10.1.0",
+    "node-fetch": "^2.6.9"
+  }
+}
