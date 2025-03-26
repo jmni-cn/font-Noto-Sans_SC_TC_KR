@@ -36,6 +36,20 @@ project/
 └── package.json
 ```
 
+## 字体子集的使用
+
+```css
+@import url('/lib/Noto+Sans/index.css');
+@import url('/lib/Noto+Sans+SC/index.css');
+@import url('/lib/Noto+Sans+KR/index.css');
+@import url('/lib/Noto+Sans+TC/index.css');
+or
+@import"/lib/Noto+Sans/index.css";
+@import"/lib/Noto+Sans+SC/index.css";
+@import"/lib/Noto+Sans+KR/index.css";
+@import"/lib/Noto+Sans+TC/index.css";
+```
+
 ## 安装依赖
 
 ```bash
