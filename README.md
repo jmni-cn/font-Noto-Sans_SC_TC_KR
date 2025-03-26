@@ -1,3 +1,6 @@
+> 本想用[fonttools](https://github.com/fonttools/fonttools) 、 [fontmin](https://github.com/ecomfe/fontmin)等工具在本地环境搞一下..
+
+
 # 字体文件下载工具
 
 这是一个用于下载和本地化 Google Fonts 字体文件的 Node.js 脚本。它可以自动下载 CSS 文件中引用的字体文件，并更新 CSS 文件中的字体路径为本地路径。
